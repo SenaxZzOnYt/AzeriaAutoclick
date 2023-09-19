@@ -84,5 +84,5 @@ x = 0
 timekeeper = 0
 
 keyboard.on_press_key("F6", toggle_autoclick)
-root.after(10, autoclick)t
+root.after(10, autoclick)
 root.mainloop()
